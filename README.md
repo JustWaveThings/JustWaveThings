@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JustWaveThings
 - 👀 I’m interested in local control IOT projects, ESP8266/ESP32, 3D printing, and growing my portfolio.
 - 🌱 I’m currently learning with the help of the open-source project theodinproject.com (TOP)
-- 💞️ I’m looking to collaborate on Home Assistant, ESPHome, Tasmota, Node-Red once I have enough skills to contribute.
 - 📫 How to reach me 48169481+Janstander2011@users.noreply.github.com
 
 <!---
