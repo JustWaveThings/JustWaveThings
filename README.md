@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wave.
-- 👀 I’m working become employed as a full stack web developer. 
+- 👀 I’m working to become employed as a full stack web developer. 
 - 🌱 I’m currently learning full stack web development (JavaScript, HTML, CSS, NodeJS and React, among others) with the help of the open-source project theodinproject.com (TOP)
 - 📫 How to reach me: justwavethings@proton.me
 
