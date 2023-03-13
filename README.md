@@ -2,7 +2,7 @@
 - 👀 Always open to networking with other self-taught people! In this climate, I feel we will succeed together more easily than as individuals. 
 - 🌱 I’m currently learning full stack web development (JavaScript, HTML, CSS, NodeJS and React, among others) with the help of the open-source project theodinproject.com (TOP)
 - 📫 How to reach me: justwavethings@pm.me
-
+- Feel free to fork or file issues with any of my repos. Feedback is always appreciated!
 
 <!---
 Janstander2011/Janstander2011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
