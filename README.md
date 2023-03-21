@@ -9,12 +9,15 @@
 
 - 🤝 I’m looking for help with: **Choosing from and implementing JavaScript Design Principles / Implementing SOLID Prinicples / Keeping it DRY **
 
-- 👨‍💻 All of my projects are available in the repository's **GitHub Pages**, for now. Portfolio site forthcoming.
+- 👨‍💻 All of my public projects are available in the repository's GitHub Pages, for now. Portfolio site forthcoming.
 
 - 💬 Ask me about **my webpack template repo**
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me: <a href="mailto:justwavthings@pm.me">justwavethings@pm.me</a>
+- 📫 How to reach me: 
+  -  Send me an email: <a href="mailto:justwavthings@pm.me">justwavethings@pm.me</a>
+  -  I am Wave#4186 on Discord. 
+  -  You can find me on The Odin Project's Discord as '.wav'.
 
 <h3 align="left">Languages and Tools I have experience with:</h3>
 
