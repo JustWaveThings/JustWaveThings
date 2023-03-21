@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **JavaScript, HTML5/CSS3, Node.js, React, Express, Mongo.db, Git, Webpack and more**
 
-- 👯 I’m looking to collaborate on **how to network effectively as a new developer**
+- 👯 I’m looking to collaborate on **how to network effectively as a new developer**.
 
 - 🤝 I’m looking for help with: **Choosing from and implementing JavaScript Design Principles / Implementing SOLID Prinicples / Keeping it DRY
 
