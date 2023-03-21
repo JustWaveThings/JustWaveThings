@@ -1,22 +1,20 @@
 <h1 align="center">Hi 👋, I'm Wave</h1>
 <h3 align="center">A learner following The Odin Project curriculum</h3>
 
-- 🔭 I’m currently working on **Promises / Callbacks / Async JS**
+- 🔭 I’m currently working on projects focused on: **Promises / Callbacks / Async JS**
 
-- 🌱 I’m currently learning **JS, HTML/CSS, Node.js, React, Express, Mongo.db, Webpack**
+- 🌱 I’m currently learning: **JavaScript, HTML5/CSS3, Node.js, React, Express, Mongo.db, Git, Webpack and more**
 
 - 👯 I’m looking to collaborate on **how to network effectively as a new developer**
 
-- 🤝 I’m looking for help with: **JavaScript Design Principles / Implementing SOLID Prinicples / Keeping it DRY**
+- 🤝 I’m looking for help with: **Choosing from and implementing JavaScript Design Principles / Implementing SOLID Prinicples / Keeping it DRY **
 
-- 👨‍💻 All of my projects are available in the repository's **GitHub Pages**
+- 👨‍💻 All of my projects are available in the repository's **GitHub Pages**, for now. Portfolio site forthcoming.
 
 - 💬 Ask me about **my webpack template repo**
 
 <h3 align="left">Connect with me:</h3>
 - 📫 How to reach me: <a href="mailto:justwavthings@pm.me">justwavethings@pm.me</a>
- 
-
 
 <h3 align="left">Languages and Tools I have experience with:</h3>
 
