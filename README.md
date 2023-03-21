@@ -16,7 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 - 📫 How to reach me: 
   -  Send me an email: <a href="mailto:justwavthings@pm.me">justwavethings@pm.me</a>
+  
   -  I am Wave#4186 on Discord. 
+  
   -  You can find me on The Odin Project's Discord as '.wav'.
 
 <h3 align="left">Languages and Tools I have experience with:</h3>
