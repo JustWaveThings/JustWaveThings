@@ -14,12 +14,11 @@
 - 💬 Ask me about **my webpack template repo**
 
 <h3 align="left">Connect with me:</h3>
-  📫  Send me an email: <a href="mailto:justwavthings@pm.me">justwavethings@pm.me</a>
+  <p> 📫  Send me an email: <a href="mailto:justwavthings@pm.me">justwavethings@pm.me</a> </p>
   
+  <p>👨‍💻  I am Wave#4186 on Discord. </p>
   
-  👨‍💻  I am Wave#4186 on Discord. 
-  
-  👨‍💻  You can find me on <a href="https://discord.com/invite/V75WSQG">The Odin Project's Discord Server</a> as '.wav'.
+  <p>👨‍💻  You can find me on <a href="https://discord.com/invite/V75WSQG">The Odin Project's Discord Server</a> as '.wav'.</p>
 
 <h3 align="left">Languages and Tools I have experience with:</h3>
 
