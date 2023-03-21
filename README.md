@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **JavaScript Design Principles / Implementing SOLID Prinicples**
 
-- 👨‍💻 All of my projects are available in the repository's **GitHub Pages**.
+- 👨‍💻 All of my projects are available in the repository's **GitHub Pages**
 
-- 💬 Ask me about **my webpack template repo.**
+- 💬 Ask me about **my webpack template repo**
 
 - 📫 How to reach me: **justwavethings@pm.me**
 
