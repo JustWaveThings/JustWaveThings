@@ -15,6 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 - 📫 How to reach me: [justwavethings@pm.me](mailto:justwavethings@pm.me)
+- 
+ 
+<p><a href="mailto:foo@bar.baz">foo@bar.baz</a></p>
 <p align="left">
 </p>
 
