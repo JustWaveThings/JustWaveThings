@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **how to network effectively as a new developer**
 
-- 🤝 I’m looking for help with: **Choosing from and implementing JavaScript Design Principles / Implementing SOLID Prinicples / Keeping it DRY **
+- 🤝 I’m looking for help with: **Choosing from and implementing JavaScript Design Principles / Implementing SOLID Prinicples / Keeping it DRY
 
-- 👨‍💻 All of my public projects are available in the repository's GitHub Pages, for now. Portfolio site forthcoming.
+- 👨‍💻 All of my public projects are available in the repository's GitHub Pages, for now. A portfolio site is planned.
 
 - 💬 Ask me about **my webpack template repo**
 
