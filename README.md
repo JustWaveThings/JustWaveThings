@@ -14,7 +14,7 @@
 - 💬 Ask me about **my webpack template repo**
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me: 
+  -  📫 How to reach me: 
   -  Send me an email: <a href="mailto:justwavthings@pm.me">justwavethings@pm.me</a>
   
   -  I am Wave#4186 on Discord. 
