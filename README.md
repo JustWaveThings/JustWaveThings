@@ -14,7 +14,7 @@
 - 💬 Ask me about **my webpack template repo**
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me: (mailto:justwavethings@pm.me)
+- 📫 How to reach me: [justwavethings@pm.me](mailto:justwavethings@pm.me)
 <p align="left">
 </p>
 
