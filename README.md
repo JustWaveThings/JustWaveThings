@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my public projects are available in the repository's GitHub Pages, for now. A portfolio site is planned.
 
-- 💬 Ask me about **my webpack template repo**
+- 💬 Ask me about **my webpack template repo**.
 
 <h3 align="left">Connect with me:</h3>
   <p> 📫  Send me an email: <a href="mailto:justwavthings@pm.me">justwavethings@pm.me</a> </p>
