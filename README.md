@@ -18,7 +18,7 @@
   
   -  I am Wave#4186 on Discord. 
   
-  -  You can find me on <a href="https://discord.com/invite/V75WSQG">The Odin Project's Discord</a> as '.wav'.
+  -  You can find me on <a href="https://discord.com/invite/V75WSQG">The Odin Project's Discord Server</a> as '.wav'.
 
 <h3 align="left">Languages and Tools I have experience with:</h3>
 
