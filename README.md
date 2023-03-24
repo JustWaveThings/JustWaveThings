@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Wave</h1>
 <h3 align="center">A learner following The Odin Project curriculum</h3>
 
-- 🔭 I’m currently working on projects focused on: **Promises / Callbacks / Async JS**
+- 🔭 I’m currently working on projects focused on: **Data Structures and Algorithms**
 
 - 🌱 I’m currently learning: **JavaScript, HTML5/CSS3, Node.js, React, Express, Mongo.db, Git, Webpack and more**
 
 - 👯 I’m looking to collaborate on **how to network effectively as a new developer**.
 
-- 🤝 I’m looking for help with: **Choosing from and implementing JavaScript Design Principles / Implementing SOLID Prinicples / Keeping it DRY**
+- 🤝 I’m looking for help with: **Choosing from and implementing JavaScript Design Principles / Implementing SOLID Prinicples / Keeping it DRY / Keeping Organized**
 
 - 👨‍💻 All of my public projects are available in the repository's GitHub Pages, for now. A portfolio site is planned.
 
