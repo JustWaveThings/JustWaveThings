@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wave</h1>
 <h3 align="center">A learner following The Odin Project curriculum</h3>
 
-- 🔭 I’m currently working on projects focused on: **Testing with Jest**
+- 🔭 I’m currently working on projects focused on: **Learning React**
 
 - 🌱 I’m currently learning: **JavaScript, HTML5/CSS3, Node.js, React, Express, Mongo.db, Git, Webpack and more**
 
