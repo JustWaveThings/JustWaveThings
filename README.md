@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on projects focused on: **Learning React**
 
-- 🌱 I’m currently learning: **JavaScript, HTML5/CSS3, Node.js, React, Express, Mongo.db, Git, Webpack and more**
+- 🌱 I’m currently learning: **JavaScript, Advanced HTML/CSS, Node.js, React, Express, Mongo.db, Git, Webpack and more**
 
 - 👯 I’m looking to collaborate on **how to network effectively as a new developer**.
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my public projects are available in the repository's GitHub Pages, for now. A portfolio site is planned.
 
-- 💬 Ask me about **my webpack template repository**.
+- 💬 Ask me about what I learned from making **my webpack template repository**.
 
 <h3 align="left">Connect with me:</h3>
   <p> 📫  Send me an email: <a href="mailto:justwavthings@pm.me">justwavethings@pm.me</a> </p>
