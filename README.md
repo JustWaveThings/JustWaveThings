@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wave</h1>
 <h3 align="center">A learner following The Odin Project curriculum</h3>
 
-- 🔭 I’m currently working on projects focused on: **Learning React**
+- 🔭 I’m currently working on projects focused on: **React Router**
 
 - 🌱 I’m currently learning: **JavaScript, Advanced HTML/CSS, Node.js, React, Express, Mongo.db, Git, Webpack and more**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my public projects are available in the repository's GitHub Pages, for now. A portfolio site is planned.
 
-- 💬 Ask me about what I learned from making **my webpack template repository**.
+- 💬 Ask me about what I learned from making **my webpack template repository, and what I'd do differently**.
 
 <h3 align="left">Connect with me:</h3>
   <p> 📫  Send me an email: <a href="mailto:justwavthings@pm.me">justwavethings@pm.me</a> </p>
