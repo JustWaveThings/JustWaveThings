@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wave</h1>
 <h3 align="center">A learner following The Odin Project curriculum</h3>
 
-- 🔭 I’m currently working on projects focused on: **React Router**
+- 🔭 I’m currently working on projects focused on: **React Router, Hosting a book club on Eric Elliott's 'Composing Software'**
 
 - 🌱 I’m currently learning: **JavaScript, Advanced HTML/CSS, Node.js, React, Express, Mongo.db, Git, Webpack and more**
 
