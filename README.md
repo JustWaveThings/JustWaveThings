@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wave</h1>
+<h1 align="center">Hi 👋, I'm Fred</h1>
 
 
 - 🔭 Projects I'm currently working on: **React Router v6 and hosting a book club on Eric Elliott's 'Composing Software'**
