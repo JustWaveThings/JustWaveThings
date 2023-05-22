@@ -7,7 +7,7 @@
 
 - 🤝 I’m focusing on: **Choosing from and implementing JavaScript Design Principles / Implementing SOLID Prinicples / Keeping it DRY / Keeping Organized**
 
-- 👨‍💻 All of my public projects are available in the repository's GitHub Pages.
+- 👨‍💻 All of my public projects are available in their repository's GitHub Pages.
 
 
 
