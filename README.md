@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Wave</h1>
-<h3 align="center">A learner following The Odin Project curriculum</h3>
+
 
 - 🔭 I’m currently working on projects focused on: **React Router, Hosting a book club on Eric Elliott's 'Composing Software'**
 
-- 🌱 I’m currently learning: **JavaScript, Advanced HTML/CSS, Node.js, React, Express, Mongo.db, Git, Webpack and more**
+- 🌱 I’m currently using: **JavaScript, Advanced HTML/CSS, Node.js, React, Express, Mongo.db, Git, Webpack and more**
 
-- 👯 I’m looking to collaborate on **how to network effectively as a new developer**.
+- 🤝 I’m focusing on: **Choosing from and implementing JavaScript Design Principles / Implementing SOLID Prinicples / Keeping it DRY / Keeping Organized**
 
-- 🤝 I’m looking for help with: **Choosing from and implementing JavaScript Design Principles / Implementing SOLID Prinicples / Keeping it DRY / Keeping Organized**
+- 👨‍💻 All of my public projects are available in the repository's GitHub Pages.
 
-- 👨‍💻 All of my public projects are available in the repository's GitHub Pages, for now. A portfolio site is planned.
 
-- 💬 Ask me about what I learned from making **my webpack template repository, and what I'd do differently**.
 
 <h3 align="left">Connect with me:</h3>
   <p> 📫  Send me an email: <a href="mailto:justwavthings@pm.me">justwavethings@pm.me</a> </p>
