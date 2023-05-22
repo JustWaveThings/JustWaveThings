@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wave</h1>
 
 
-- 🔭 I’m currently working on projects focused on: **React Router, Hosting a book club on Eric Elliott's 'Composing Software'**
+- 🔭 Projects I'm currently working on: **React Router v6 shopping cart app as well as hosting a book club on Eric Elliott's 'Composing Software'**
 
 - 🌱 I’m currently using: **JavaScript, Advanced HTML/CSS, Node.js, React, Express, Mongo.db, Git, Webpack and more**
 
