@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fred</h1>
 
 
-- 🔭 Projects I'm currently working on: **React Router v6 and hosting a book club on Eric Elliott's 'Composing Software'**
+- 🔭 Projects I'm currently working on: **Completing a project with React Router v6, volunteering as a member of staff for The Odin Project, and co-hosting a book club on Eric Elliott's 'Composing Software'**
 
 - 🌱 I’m currently using: **JavaScript, Advanced HTML/CSS, Node.js, React, Express, Mongo.db, Git, Webpack and more**
 
-- 🤝 I’m focusing on: **Choosing from and implementing JavaScript Design Principles / Implementing SOLID Prinicples / Keeping it DRY / Keeping Organized**
+- 🤝 I’m focusing on: **Testing React, TDD and Testing in general, Routing in React, applying the learning from Elliott's book in my own code**
 
 - 👨‍💻 All of my public projects are available in their repository's GitHub Pages.
 
@@ -16,7 +16,7 @@
   
   <p>👨‍💻  I am Wave#4186 on Discord. </p>
   
-  <p>👨‍💻  You can find me on <a href="https://discord.com/invite/V75WSQG">The Odin Project's Discord Server</a> as '.wav'.</p>
+  <p>👨‍💻  You can find me on <a href="https://discord.com/invite/V75WSQG">The Odin Project's Discord Server</a> as 'Fred', where I volunteer my time as a member of the Moderation team.</p>
 
 <h3 align="left">Most of the languages and tools I have experience with:</h3>
 
