@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently using: **JavaScript, Advanced HTML/CSS, Node.js, React, Express, Mongo.db, Git, Webpack and more**
 
-- 🤝 I’m focusing on: **Testing React, TDD and Testing in general, Routing in React, applying the learning from Elliott's book in my own code.**
+- 🤝 I’m focusing on: **Testing React, TDD, Testing in general, Routing in React, and applying the learning from Elliott's book in my own projects.**
 
 - 👨‍💻 All of my public projects are available in their repository's GitHub Pages.
 
