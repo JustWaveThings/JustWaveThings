@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fred</h1>
 
 
-- 🔭 Projects I'm currently working on: **Completing a project with React Router v6, volunteering as a member of staff for The Odin Project, and co-hosting a book club on Eric Elliott's 'Composing Software'**
+- 🔭 Projects I'm currently working on: **Completing a project with React Router v6 and volunteering as a member of staff for The Odin Project**
 
 - 🌱 I’m currently using: **JavaScript, Advanced HTML/CSS, Node.js, React, Express, Mongo.db, Git, Webpack and more**
 
