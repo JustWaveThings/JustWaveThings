@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fred</h1>
 
 
-- 🔭 Projects I'm currently working on: **Completing a project with React Router v6 and volunteering as a member of staff for The Odin Project**
+- 🔭 Projects I'm currently working on: **Completing a TDD project with a Firebase backend and volunteering as a member of staff for The Odin Project**
 
-- 🌱 I’m currently using: **JavaScript, Advanced HTML/CSS, Node.js, React, Express, Mongo.db, Git, Webpack and more**
+- 🌱 I’m currently using: **JavaScript, Advanced HTML/CSS, Node.js, React, Express, Mongo.db, Git, Webpack, and more**
 
 - 🤝 I’m focusing on: **Testing React, TDD, Testing in general, Routing in React, and applying the learning from Elliott's book in my own projects.**
 
@@ -13,8 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
   <p> 📫  Send me an email: <a href="mailto:justwavthings@pm.me">justwavethings@pm.me</a> </p>
-  
-  <p>👨‍💻  I am Wave#4186 on Discord. </p>
   
   <p>👨‍💻  You can find me on <a href="https://discord.com/invite/V75WSQG">The Odin Project's Discord Server</a> as 'Fred', where I volunteer my time as a member of the Moderation team.</p>
 
