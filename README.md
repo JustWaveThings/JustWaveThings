@@ -3,7 +3,7 @@
 
 - 🔭 Projects I'm currently working on: **leveling up my responsive design chops and volunteering as a member of staff for The Odin Project**
 
-- 🌱 I’m currently using: **JavaScript, Responsive Design, Node.js, React, Express, Mongo.db, Git, Webpack, and more**
+- 🌱 I’m currently using: **JavaScript, Node.js, React, Express, MongoDB, Git, Webpack, and more**
 
 - 🤝 I’m focusing on: **Writing code that is modular, reusable, and readable**
 
