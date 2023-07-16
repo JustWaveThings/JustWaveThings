@@ -7,7 +7,7 @@
 
 - 🤝 I’m focusing on: **Writing code that is modular, reusable, and readable**
 
-- 👨‍💻 All of my public projects are available in their repository's GitHub Pages.
+- 👨‍💻 All of my public projects are available in their repository's GitHub Pages
 
 
 
