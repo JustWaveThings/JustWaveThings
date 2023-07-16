@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
   <p> 📫  Send me an email: <a href="mailto:justwavthings@pm.me">justwavethings@pm.me</a> </p>
   
-  <p>👨‍💻  You can find me on <a href="https://discord.com/invite/V75WSQG">The Odin Project's Discord Server</a> as 'Fred', where I volunteer my time as a member of the Moderation team.</p>
+
 
 <h3 align="left">Most of the languages and tools I have experience with:</h3>
 
