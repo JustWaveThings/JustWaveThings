@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fred</h1>
 
 
-- 🔭 Projects I'm currently working on: **Completing a TDD project with a Firebase backend and volunteering as a member of staff for The Odin Project**
+- 🔭 Projects I'm currently working on: **leveling up my responsive design chops and volunteering as a member of staff for The Odin Project**
 
-- 🌱 I’m currently using: **JavaScript, Advanced HTML/CSS, Node.js, React, Express, Mongo.db, Git, Webpack, and more**
+- 🌱 I’m currently using: **JavaScript, Responsive Design, Node.js, React, Express, Mongo.db, Git, Webpack, and more**
 
-- 🤝 I’m focusing on: **Testing React, TDD, Testing in general, Routing in React, and applying the learning from Elliott's book in my own projects.**
+- 🤝 I’m focusing on: **Writing code that is modular, reusable, and readable**
 
 - 👨‍💻 All of my public projects are available in their repository's GitHub Pages.
 
