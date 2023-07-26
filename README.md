@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fred</h1>
 
 
-- 🔭 Projects I'm currently working on: **leveling up my responsive design chops and volunteering as a member of staff for The Odin Project**
+- 🔭 Projects I'm currently working on: **leveling up Node.js and volunteering as a member of staff for The Odin Project**
 
 - 🌱 I’m currently using: **JavaScript, Node.js, React, Express, MongoDB, Git, Webpack, and more**
 
