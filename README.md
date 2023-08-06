@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on a full stack inventory application and volunteering as a member of staff for The Odin Project
 
-- 👨‍💻 All of my public projects are available in their repository's GitHub Pages
+- 👨‍💻 All of my public projects are available in their repository's GitHub Pages or are linked in the repository README
 
 <h3 align="left">Connect with me:</h3>
   <p> 📫  Send me an email: <a href="mailto:justwavthings@pm.me">justwavethings@pm.me</a> </p>
