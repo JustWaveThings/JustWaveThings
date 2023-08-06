@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fred</h1>
 
 
-- 🔭 Projects I'm currently working on ** a full stack inventory application and volunteering as a member of staff for The Odin Project**
+- 🔭 I'm currently working on a full stack inventory application and volunteering as a member of staff for The Odin Project
 
 - 👨‍💻 All of my public projects are available in their repository's GitHub Pages
 
