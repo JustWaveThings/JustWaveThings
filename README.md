@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Fred</h1>
+<h1 align="center">👋, I'm Fred</h1>
 
-
-- 🔭 I'm currently working on a full stack inventory application and volunteering as a member of staff for The Odin Project
+ 🔭 I'm currently working on a full stack inventory application and volunteering as a member of staff for The Odin Project
 
 <h3 align="left">Most of the languages and tools I have experience with:</h3>
 
