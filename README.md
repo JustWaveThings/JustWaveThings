@@ -1,6 +1,6 @@
 <h1 align="center">👋, I'm Fred</h1>
 
-🔭 I'm currently working on a full stack inventory application and volunteering as a member of staff for The Odin Project
+🔭 I'm currently working on a full stack application and volunteering as a member of staff for The Odin Project
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justwavethings&show_icons=true&locale=en&layout=compact" alt="justwavethings" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justwavethings&" alt="justwavethings" /></p>
 
