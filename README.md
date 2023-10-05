@@ -1,30 +1,31 @@
 <h1 align="center">👋, I'm Fred</h1>
 
-
-
-
-
-
 <section>
-      <h2>Currently Learning:</h2>
-      🔭 I'm currently working on a full stack application and volunteering as a member of staff for The Odin Project
-      <p align="left">
+      <h4 align="center">Currently Learning:</h4>
+      <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=express,bots,postman" />
-        </a>
+          <img src="https://skillicons.dev/icons?i=express,bots,postman"/>
+        </a><span>...and More!</span>
       </p>
+
+</section>
+    <section>
+      <h4 align="center">Tools I Have Been Using:</h4>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,github,javascript,nodejs,react,mongodb,html,css" />
+        </a>
+        <p align="center">
+   <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=webpack,vite,linux,bash,firebase,jest,md,regex" />
+        </a>
+        </p>
+
+</p>
     </section>
     <section>
-      <h2>Tools I Have Been Using:</h2>
-      <p align="left">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,javascript,nodejs,react,mongodb,html,css,webpack,vite,linux,bash,firebase,jest,md,regex, " />
-        </a>
-      </p>
-    </section>
-    <section>
-      <h2>Tools I've Used in the Past:</h2>
-      <p align="left">
+      <h4 align="center">Tools I've Used in the Past:</h4>
+      <p align="center">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=arduino,docker,raspberrypi,cpp,rabbitmq" />
         </a>
