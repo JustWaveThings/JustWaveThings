@@ -33,5 +33,8 @@
     </section>
     <section>
       <h4 align='center'>My GitHub Stats</h4>
-          <img style="align:center" src="https://github-readme-stats.vercel.app/api/top-langs?username=justwavethings&show_icons=true&locale=en&layout=compact" alt="justwavethings" /><img style="margin-left:1rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=justwavethings&" alt="justwavethings" />
+      <div style="display: flex; justify-content: center; align-items: flex-start;">
+        <img style="margin-right: 1rem; height: 195px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=justwavethings&show_icons=true&locale=en&layout=compact" alt="justwavethings" />
+        <img style="margin-left: 1rem; height: 195px;" src="https://github-readme-streak-stats.herokuapp.com/?user=justwavethings&" alt="justwavethings" />
+      </div>
     </section>
