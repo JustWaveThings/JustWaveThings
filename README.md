@@ -6,7 +6,7 @@
 
 <h5 align="left">Some of my favorite tools/languages:</h5>
 
-    <section>
+<section>
       <h2>Currently Learning:</h2>
       <p align="left">
         <a href="https://skillicons.dev">
