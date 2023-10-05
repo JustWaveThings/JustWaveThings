@@ -18,7 +18,7 @@
         <p align="center">
    <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=webpack,vite,linux,bash,firebase,jest,md,regex" />
-        </a>
+        </a><span>...and More!</span>
         </p>
 
 </p>
@@ -28,7 +28,7 @@
       <p align="center">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=arduino,docker,raspberrypi,cpp,rabbitmq" />
-        </a>
+        </a><span>...and More!</span>
       </p>
     </section>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=justwavethings&show_icons=true&locale=en&layout=compact" alt="justwavethings" /></p>
