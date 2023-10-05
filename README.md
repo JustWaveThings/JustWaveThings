@@ -33,5 +33,5 @@
     </section>
     <section>
       <h4 align='center'>My GitHub Stats</h4>
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=justwavethings&show_icons=true&locale=en&layout=compact" alt="justwavethings" /><img style="margin-left:1rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=justwavethings&" alt="justwavethings" />
+          <img style="align:center" src="https://github-readme-stats.vercel.app/api/top-langs?username=justwavethings&show_icons=true&locale=en&layout=compact" alt="justwavethings" /><img style="margin-left:1rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=justwavethings&" alt="justwavethings" />
     </section>
