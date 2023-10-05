@@ -17,7 +17,7 @@
         <p align="left">
    <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=webpack,vite,linux,bash,firebase,jest,md,regex" />
-        </a>
+        </a><span>...and More!</span>
         </p>
 
 </p>    </section>
@@ -26,7 +26,7 @@
       <p align="left">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=arduino,docker,raspberrypi,cpp,rabbitmq" />
-        </a>
+        </a><span>...and More!</span>
       </p>
     <section>
       <h4 align='left'>My GitHub Stats</h4>
