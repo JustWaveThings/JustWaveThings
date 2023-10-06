@@ -1,7 +1,7 @@
 <h1 align="center">👋, I'm Fred</h1>
 
  <section>
-      <h2 align="left">About Me?</h2>
+      <h2 align="left">About Me</h2>
       <p>I am a self-taught full-stack software developer who's passionate about expanding my knowledge and skills with the goal of finding a match with a team willing to give me a runway to grow into the key contributor I know I will be.</p>
 
 <p>I have a Bachelor's Degree in Business Administration, as well as several successful roles in the management of human services, customer service, and quick service businesses. These experiences inform my approach to problem-solving and getting things done. I am a strong believer in the power of collaboration and the value of open communication.
