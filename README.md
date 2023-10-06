@@ -14,7 +14,7 @@
 
 </section>
     <section>
-      <h2 align="left">Currently Learning:</h2>
+      <h2 align="left">Currently Learning</h2>
       <p>I am currently working on a full-stack blog project. On the backend, it is a Node.js project utilizing Express, a MongoDB Database, REST API, and Passport authentication middleware. On the front end, there is an authoring CMS suite, integrated with TinyMCE, with its own Passport Auth Strategy, as well as a separate blog frontend, both built in React and taking full advantage of React Router's data API features to create a performant and maintainable codebase.</p>
       <p align="left">
         <a href="https://skillicons.dev">
