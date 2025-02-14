@@ -13,25 +13,6 @@
     </article>
   </section>
   <div>
-    <section>
-      <header>
-        <h2>Working On</h2>
-      </header>
-      <p>
-        <span>I am building a full stack blog with the following tech:</span>
-        <ul style='list-style-type: "- ";'>
-          <li>Node.js</li>
-          <li>Express</li>
-          <li>React/React Router/React Testing Library</li>
-          <li>MongoDB/MongoDB Atlas</li>
-          <li>Mongoose</li>
-          <li>REST APIs</li>
-          <li>Passport.js</li>
-          <li>JWT's</li>
-          <li>Vite/Vitest</li>
-          <li>TinyMCE</li>
-        </ul>
-      </p>
      
 ### Languages
 | Name          | Image                                                      |
@@ -76,7 +57,7 @@
  
  ...and more    
 </div>
-    </section>
+  
   </div>
 </main>
 <footer>
