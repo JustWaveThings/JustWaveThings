@@ -61,11 +61,11 @@
   </div>
 </main>
 <footer>
-  <section class='stats'>
+ <!--  <section class='stats'>
     <h2>GitHub Stats</h2>
     <div style='display: flex; flex-wrap: wrap; justify-content: center;'>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=justwavethings&" alt="My GitHub contribution streak" height='194px'/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justwavethings&show_icons=true&locale=en&layout=compact" alt="My most used programming languages" height='194px'/>
     </div>
-  </section>
+  </section> -->
 </footer>
